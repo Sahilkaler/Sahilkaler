@@ -2,7 +2,7 @@
 ***<h3 align="center"><b>Exploring Tech </h3></b>***
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif"/>
 <br>
-<p align="left"><em> <a href="https://twitter.com/realraoaditya" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkalerrr?logo=twitter&style=for-the-badge" alt="@sahilkalerrr" /></a> </p>
+<p align="left"><em> <a href="https://twitter.com/sahilkalerrr" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkalerrr?logo=twitter&style=for-the-badge" alt="@sahilkalerrr" /></a> </p>
 
  - 🌱 ***I’m currently learning*** :  *Java, Web Devlopment*
 
