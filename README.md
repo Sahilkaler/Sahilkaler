@@ -1,12 +1,35 @@
 # 💫 About Me:
-I am Sahil Kaler.<br>I am learning and working on Frontend Development, Java and Data Structure and Algorithms.<br>I love reading manga and watching anime.<br>Keen to learn new things and open to work with all.<br>Contact me on sahilkaler12344@gmail.com
+- I am Sahil Kaler.
+- I am learning and working on Frontend Development, Java and Data Structure and Algorithms.
+- I love reading manga and watching anime.
+- Keen to learn new things and open to work with all.
+- Contact me on sahilkaler12344@gmail.com
+
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilkalerrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kaler) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahilkalerrr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilkalerrr) 
 
+## 📖 My Latest Article:
+</div>
+<p align="left">
+<a href="https://medium.com/@sahilkalerrrr/understanding-functions-in-java-b9b519853702" title="<strong><em>UNDERSTANDING FUNCTIONS IN JAVA.
+</em></strong>">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wpDzdq9XC8Gsa3B-dTLhiQ.png" width="250px" align="left" />
+</a>
+<a href="https://medium.com/@sahilkalerrrr/understanding-functions-in-java-b9b519853702" title=" <strong><em>UNDERSTANDING FUNCTIONS IN JAVA.</em></strong> "> <strong><em> UNDERSTANDING FUNCTIONS IN JAVA.</em></strong></a>
+<br/> 
+Recently I started learning Java. I was enjoying my learning until a moment came, that moment was when I had to rewrite the same code again and again for many times. Let’s consider an example <a href="https://medium.com/@sahilkalerrrr/understanding-functions-in-java-b9b519853702" >Read More ....</a>
+</p> 
+<br />
+
+
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=red)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sahilkaler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilkaler&theme=tokyonight&hide_border=true)<br/>
@@ -24,7 +47,8 @@ I am Sahil Kaler.<br>I am learning and working on Frontend Development, Java and
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sahilkaler&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sahilkaler&icon=1&color=6)](https://visitcount.itsvg.in)
 
+[![Sahil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahilkaler&bg_color=1A1B27&color=70a5fd&line=1cadfb&point=1cadfb&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=Sahilkaler&icon=1&color=6)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
