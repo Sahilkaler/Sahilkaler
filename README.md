@@ -1,52 +1,30 @@
-***<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> I'm Sahil Kaler</h1>***
-***<h3 align="center"><b>Exploring Tech </h3></b>***
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif"/>
-<br>
-<p align="left"><em> <a href="https://twitter.com/sahilkalerrr" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkalerrr?logo=twitter&style=for-the-badge" alt="@sahilkalerrr" /></a> </p>
+# 💫 About Me:
+I am Sahil Kaler.<br>I am learning and working on Frontend Development, Java and Data Structure and Algorithms.<br>I love reading manga and watching anime.<br>Keen to learn new things and open to work with all.<br>Contact me on sahilkaler12344@gmail.com
 
-- 🌱 ***I’m currently learning*** :  *Java, Web Devlopment*
 
-- 💬 ***Ask me about***: *JAVA*
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilkalerrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kaler) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahilkalerrr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilkalerrr) 
 
-- 📫 ***How to reach me***: *sahilkaler12344@gmail.com*
-                      
- <h2 align="left" border="0"><em>My Tech Stack:</em> <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sahilkaler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilkaler&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkaler&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
- ***<table>***
-  <tr>
-      <td align="center" width="90">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="60" />
-      </a>
-      <br>Python
-    </td>
-   <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="89" height="60" />
-        <br>java 
-     </td>
-     <td align="center" width="90">
-         <img src="https://cdn-icons-png.flaticon.com/128/2111/2111374.png" alt="icon" width="110" height="60"  />
-       <br>github                                                                                             
-     </td>
-        
-   <td align="center"  width="90">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-   <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-   <td align="center"  width="90">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-   <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="89" height="60" />
-      <br>Javascript
-    </td>
-  <td align="center" width="90">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="60" />       
-     <br>SQL  
-      </td>
-  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sahilkaler&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sahilkalerrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sahilkaler&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sahilkaler&icon=1&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
