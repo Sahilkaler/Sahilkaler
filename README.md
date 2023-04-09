@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilkalerrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kaler) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahilkalerrr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilkalerrr) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilkalerrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kaler) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahilkalerrrr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilkalerrr) 
 
 ## 📖 My Latest Article:
 </div>
@@ -41,11 +41,6 @@ Recently I started learning Java. I was enjoying my learning until a moment came
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sahilkalerrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahilkaler&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 [![Sahil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahilkaler&bg_color=1A1B27&color=70a5fd&line=1cadfb&point=1cadfb&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
