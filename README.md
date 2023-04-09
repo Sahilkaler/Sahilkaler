@@ -19,10 +19,9 @@
 </a>
 <a href="https://medium.com/@sahilkalerrrr/understanding-functions-in-java-b9b519853702" title=" <strong><em>UNDERSTANDING FUNCTIONS IN JAVA.</em></strong> "> <strong><em> UNDERSTANDING FUNCTIONS IN JAVA.</em></strong></a>
 <br/> 
-Recently I started learning Java. I was enjoying my learning until a moment came, that moment was when I had to rewrite the same code again and again for many times. Let’s consider an example <a href="https://medium.com/@sahilkalerrrr/understanding-functions-in-java-b9b519853702" >Read More ....</a>
+Recently I started learning Java. I was enjoying my learning until a moment came, that moment was when I had to rewrite the same code again and again for many times. Let’s consider an example, you’re given a data of hundred employees  <a href="https://medium.com/@sahilkalerrrr/understanding-functions-in-java-b9b519853702" >Read More ....</a>
 </p> 
 <br />
-
 
 
 # 💻 Tech Stack:
@@ -40,7 +39,6 @@ Recently I started learning Java. I was enjoying my learning until a moment came
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sahilkalerrr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 
 
 [![Sahil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahilkaler&bg_color=1A1B27&color=70a5fd&line=1cadfb&point=1cadfb&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
