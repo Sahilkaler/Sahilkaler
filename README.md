@@ -38,7 +38,5 @@ Recently I started learning Java. I was enjoying my learning until a moment came
 ![](https://github-profile-trophy.vercel.app/?username=Sahilkaler&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![Sahil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahilkaler&bg_color=1A1B27&color=70a5fd&line=1cadfb&point=1cadfb&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![](https://visitcount.itsvg.in/api?id=Sahilkaler&icon=1&color=6)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
