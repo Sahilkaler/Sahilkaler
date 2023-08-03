@@ -1,6 +1,6 @@
 # 💫 About Me:
 - I am Sahil Kaler.
-- I am learning and working on Frontend Development, Java and Data Structure and Algorithms.
+- I am learning and working on Full Stack Development, Java and Data Structure and Algorithms.
 - I love reading manga and watching anime.
 - Keen to learn new things and open to work with all.
 - Contact me on sahilkaler12344@gmail.com
