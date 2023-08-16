@@ -37,6 +37,5 @@ Recently I started learning Java. I was enjoying my learning until a moment came
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sahilkaler&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahilkaler&theme=github-compact)
 
-[![](https://visitcount.itsvg.in/api?id=Sahilkaler&icon=1&color=6)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
